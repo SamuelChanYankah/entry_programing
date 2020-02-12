@@ -8,7 +8,7 @@ for i in range(1, 10): #outer loop to handle number of rows
   print("\n") # print each statement on new line
   
   
-  #Check Factor and prime numbers
+#Check Factor and prime numbers
 #Ndou Pfarelo Rudolph, 2019/09/30, 22:00
 #A program that checks factorial and prime numbers provided by the user.
 
