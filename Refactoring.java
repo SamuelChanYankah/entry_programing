@@ -2,7 +2,7 @@ import java.util.Stack;
 import java.util.Scanner;
 import java.util.EmptyStackException;
 import java.lang.NumberFormatException;
-/* Task 18  - Refactoring
+/* Refactoring
  * Ndou Pfarelo Rudolph 2019/12/12
  * Refactoring a RPN calculator and also changing the indentation
  */
